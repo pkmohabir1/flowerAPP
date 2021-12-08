@@ -1,7 +1,8 @@
 # Flower App Environment and Execution Instructions 
 ### Create Flower APP environment
 **Step 1. Download Anaconda on machine:**
-Click here for download --> https://www.anaconda.com/products/individual
+Click here for download:  
+https://www.anaconda.com/products/individual
 
 **Step 2. Open Anaconda Terminal Window:**
 Once Anaconda is installed, depending on OS, please open the Anaconda terminal Window
