@@ -48,7 +48,7 @@ or
 ```sh
 conda install keras
 ```
-**Step 6. Install Tkinter:**
+**Step 6. Install Tkinter:**.   
 Install Tkinter GUI
 ```sh
 conda install -c anaconda tk
