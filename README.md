@@ -1,6 +1,6 @@
 # Flower App Environment and Execution Instructions 
 ### Create Flower APP environment
-**Step 1. Download Anaconda on machine:**
+**Step 1. Download Anaconda on machine:**  
 Click here for download:  
 https://www.anaconda.com/products/individual
 
@@ -62,7 +62,7 @@ conda install tk
 https://www.jetbrains.com/pycharm/download  
 
 ### Clone Github Project 
-**Step 1. Git Version Control Installation**
+**Step 1. Git Version Control Installation**  
 *Git Version control installation step *
 https://github.com/git-guides/install-git
 
