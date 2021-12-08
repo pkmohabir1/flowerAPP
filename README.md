@@ -72,7 +72,7 @@ git clone https://github.com/pkmohabir1/flowerAPP.git
 ```
 
 ### Execute Flower Application
-**Step 1. Git Pull directories and files**
+**Step 1. Git Pull directories and files**.  
 Open PyCharm IDE  
 
 **Step 2. Add your Conda Enviroment to the PyCharm interpreter**  
