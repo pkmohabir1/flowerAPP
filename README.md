@@ -62,11 +62,11 @@ conda install tk
 https://www.jetbrains.com/pycharm/download/#section=mac
 
 ### Clone Github Project 
-***Step 1. Git Version Control Installation***
+**Step 1. Git Version Control Installation**
 *Git Version control installation step *
 https://github.com/git-guides/install-git
 
-***Step 2. Clone FlowerApp Repo***
+**Step 2. Clone FlowerApp Repo**
 ```sh
 git clone https://github.com/pkmohabir1/flowerAPP.git
 ```
