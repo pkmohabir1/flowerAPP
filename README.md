@@ -10,7 +10,7 @@ Once Anaconda is installed, depending on OS, please open the Anaconda terminal W
 *Mac OS* ---> Mac Terminal Application. 
 
 **Step 2. Create Anaconda Enviroment for FLower Application:**
-Update conda the create a new environment. When creating the the enviroment please ensure  
+Update conda to create a new environment. When creating the enviroment please ensure  
 that python version is below 3.9 for tensorflow to be executed without error. For this instruction we advise python version 3.7
 ```sh
 conda update
@@ -60,6 +60,7 @@ conda install tk
 ### Download PyCharm Community IDE
 ***Community version is free*** 
 https://www.jetbrains.com/pycharm/download/#section=mac
+
 ### Clone Github Project 
 ***Step 1. Git Version Control Installation***
 *Git Version control installation step *
