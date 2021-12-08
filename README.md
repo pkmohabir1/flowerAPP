@@ -4,19 +4,19 @@
 Click here for download:  
 https://www.anaconda.com/products/individual
 
-**Step 2. Open Anaconda Terminal Window:**
+**Step 2. Open Anaconda Terminal Window:**  
 Once Anaconda is installed, depending on OS, please open the Anaconda terminal Window
 *Windows Machine* ---> Located in Anaconda Navigator.   
 *Mac OS* ---> Mac Terminal Application. 
 
-**Step 2. Create Anaconda Enviroment for FLower Application:**
+**Step 2. Create Anaconda Enviroment for FLower Application:**  
 Update conda to create a new environment. When creating the enviroment please ensure  
 that python version is below 3.9 for tensorflow to be executed without error. For this instruction we advise python version 3.7
 ```sh
 conda update
 conda create -n flowerEnv python=3.7 anaconda
 ```
-**Step 2. Activate the conda enviroment:**
+**Step 2. Activate the conda enviroment:**  
 In this step, we will now activate out new Conda environment to install python packages. 
 
 > Note: `In the furture if you need to install more packages please run this command so that you ensure the packages are being install on the conda enviroment you prefer`
@@ -24,13 +24,13 @@ In this step, we will now activate out new Conda environment to install python p
 ```sh
 conda activate FlowerEnv
 ```
-**Step 3. Install Pillow Package:**
+**Step 3. Install Pillow Package:**  
 Install Python Image library on FlowerEnv enviroment
 *https://python-pillow.org/*
 ```sh
 conda install pillow
 ```
-**Step 4. Install Tensorflow:**
+**Step 4. Install Tensorflow:**  
 Install Tensoflow Packages
 ```sh
 conda install tensorflow
@@ -39,7 +39,7 @@ or
 ```sh
 conda install tensorflow
 ```
-**Step 5. Install Keras:**
+**Step 5. Install Keras:**  
 Install Keras Packages
 ```sh
 conda install -c anaconda keras
@@ -48,7 +48,7 @@ or
 ```sh
 conda install keras
 ```
-**Step 6. Install Tkinter:**.   
+**Step 6. Install Tkinter:**     
 Install Tkinter GUI
 ```sh
 conda install -c anaconda tk
