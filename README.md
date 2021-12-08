@@ -6,7 +6,7 @@ https://www.anaconda.com/products/individual
 
 **Step 2. Open Anaconda Terminal Window:**
 Once Anaconda is installed, depending on OS, please open the Anaconda terminal Window
-*Windows Machine* ---> Located in Anaconda Navigator. 
+*Windows Machine* ---> Located in Anaconda Navigator.   
 *Mac OS* ---> Mac Terminal Application. 
 
 **Step 2. Create Anaconda Enviroment for FLower Application:**
