@@ -59,7 +59,7 @@ conda install tk
 ```
 ### Download PyCharm Community IDE
 ***Community version is free*** 
-https://www.jetbrains.com/pycharm/download/#section=mac
+https://www.jetbrains.com/pycharm/download  
 
 ### Clone Github Project 
 **Step 1. Git Version Control Installation**
